@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sachin dixit</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently studying in **gec bharatpur**
+- 🔭 I’m currently working in **cogent**
 
 - 🌱 I’m currently learning **node.js**
 
