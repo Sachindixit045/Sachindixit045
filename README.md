@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend developer**
 
-- 💬 Ask me about **python,javascript,css**
+- 💬 Ask me about **python,javascript,css , html**
 
 - 📫 How to reach me **sachindixit13122001@gmail.com**
 
