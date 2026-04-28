@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **cogent**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👯 I’m looking to collaborate on **frontend developer**
 
